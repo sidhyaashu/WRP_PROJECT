@@ -1,2 +1,3 @@
-# WRP_PROJECT
-Application of OCR &amp; NLP in education sector
+# FastAPI Project
+
+A boilerplate for building REST APIs with FastAPI.
