@@ -3,3 +3,7 @@ uvicorn
 sqlalchemy
 pydantic
 pytest
+fastapi
+uvicorn
+google-cloud-vision
+python-multipart
