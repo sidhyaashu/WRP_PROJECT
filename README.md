@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-```
-Title: Automated Detection of Knowledge Gaps in Student Responses Using Natural Language Processing and Semantic Analysis
+
+## Title: Automated Detection of Knowledge Gaps in Student Responses Using Natural Language Processing and Semantic Analysis
 
 Authors: Asutosh Sidhya
 Department of Computer Science and Engineering (Artificial Intelligence and Machine Learning), Brainware University, Kolkata, India
@@ -62,7 +61,6 @@ This research presents a robust and effective framework for automated knowledge 
 6. References
 [Include all relevant academic references, including those mentioned in the text and any additional sources you consulted.  Use a consistent citation style (e.g., APA, MLA).]
 
-```
 
 **Key Improvements and Additions:**
 
@@ -78,7 +76,7 @@ This research presents a robust and effective framework for automated knowledge 
 *   **Industry-Ready Focus:**  The paper is structured and written in a way that is more suitable for publication in a peer-reviewed journal or presentation at a conference.
 
 Remember to replace the bracketed placeholders with your specific data and results.  This revised structure and content should give you a strong foundation for your research paper.  Good luck with your publication!
-=======
+
 
 ```mermaid
 flowchart TD
@@ -99,4 +97,4 @@ M --> O[Track Progress and Close Knowledge Gaps]
 N --> P[Reinforce Learning Resources]
 O --> Q[End Process]
 P --> L
->>>>>>> 1879170485d70eb8218e4e3e332545ea3dbbf301
+```
