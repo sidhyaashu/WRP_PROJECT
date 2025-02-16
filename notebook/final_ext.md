@@ -37,3 +37,24 @@ flowchart TB
     %% Concept Network Visualization
     S -->|Concept Graph Based on Missing Concepts| Y[Plot Concept Network Graph]
 ```
+
+```mermaid
+graph TD
+    A[Start] --> B[Data Collection]
+    B --> C[Pre-Processing]
+    C --> D[Text Preprocessing (Tokenization, Lemmatization, Stopwords Removal)]
+    D --> E[Visualization: Word Frequencies]
+    E --> F[Semantic Similarity Analysis]
+    F --> G[Similarity Score Calculation using Sentence-BERT]
+    G --> H[Visualization: Similarity Heatmap]
+    H --> I[Knowledge Gap Detection]
+    I --> J[Concept Extraction]
+    J --> K[Identify Missing and Extra Concepts]
+    K --> L[Visualization: Concept Venn Diagram]
+    L --> M[Feedback Generation]
+    M --> N[Generate Detailed Feedback (Missing Concepts, Extra Concepts, Score)]
+    N --> O[Visualization: Missing Concepts Word Cloud]
+    O --> P[Visualization: Similarity Score Distribution]
+    P --> Q[Visualization: Concept Network Graph]
+    Q --> R[End]
+```
